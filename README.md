@@ -34,3 +34,13 @@ https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/?WT.mc
 
 - Introduction to Kubernetes
 https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/?WT.mc_id=udacity_learn-wwl
+
+
+
+.
+
+
+>  ## link to ( **Blessing Adesiji** ) `thanks to him`  notes which is a combination of the summary with few modification for easy access whenever they need revise. He wll update this as I proceed with other lessons.
+
+
+https://docs.google.com/document/d/1QKEszBztXIdzjt9M5DdGjFTa3ZA9fHNlIztmlSdRkh4/edit?usp=sharing

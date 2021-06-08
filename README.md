@@ -57,3 +57,6 @@ https://docs.google.com/document/d/1QKEszBztXIdzjt9M5DdGjFTa3ZA9fHNlIztmlSdRkh4/
 
 
  - [Docker Tutorial ](https://www.youtube.com/watch?v=fqMOX6JJhGo)
+
+ - [Free Course Udemy  Docker Tutorial - Docker Essentials](https://www.udemy.com/course/docker-essentials/)
+

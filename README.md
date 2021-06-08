@@ -44,3 +44,11 @@ https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/?WT.mc_id=uda
 
 
 https://docs.google.com/document/d/1QKEszBztXIdzjt9M5DdGjFTa3ZA9fHNlIztmlSdRkh4/edit?usp=sharing
+
+
+
+.
+
+## 
+
+1. - [Docker Tutorial ](https://www.youtube.com/watch?v=fqMOX6JJhGo)

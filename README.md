@@ -40,7 +40,10 @@ https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/?WT.mc_id=uda
 .
 
 
->  ## link to ( **Blessing Adesiji** ) `thanks to him`  notes which is a combination of the summary with few modification for easy access whenever they need revise. He wll update this as I proceed with other lessons.
+>  ## link to ( **Blessing Adesiji** ) `thanks to him` 
+
+
+Here he gives **some notes** which is a combination of the summary with few modification for easy access whenever they need revise. He wll update this as I proceed with other lessons.
 
 
 https://docs.google.com/document/d/1QKEszBztXIdzjt9M5DdGjFTa3ZA9fHNlIztmlSdRkh4/edit?usp=sharing
@@ -49,7 +52,7 @@ https://docs.google.com/document/d/1QKEszBztXIdzjt9M5DdGjFTa3ZA9fHNlIztmlSdRkh4/
 
 .
 
-## Some Tutorial for Beginners :
+> ## Some Tutorial for Beginners :
 
 
 

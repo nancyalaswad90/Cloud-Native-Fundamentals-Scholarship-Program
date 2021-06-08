@@ -36,6 +36,10 @@ https://docs.microsoft.com/en-us/learn/modules/intro-to-docker-containers/?WT.mc
 https://docs.microsoft.com/en-us/learn/modules/intro-to-kubernetes/?WT.mc_id=udacity_learn-wwl
 
 
+- [Git cheat sheet from GitLab](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
+
+
+
 
 .
 

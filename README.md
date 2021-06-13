@@ -3,7 +3,25 @@
 
 # SUSE Cloud Native Foundations Scholarship
 
-[Overview](https://sites.google.com/udacity.com/suse-cloud-native-foundations/overview?authuser=0)
+
+
+## [Overview](https://sites.google.com/udacity.com/suse-cloud-native-foundations/overview?authuser=0)
+
+
+
+----------------
+
+We're excited to start this journey with you. Over the next 8 weeks, you'll be working hard to finish the Foundations Course and be in the running for a full Nanodegree Scholarship!
+
+Please explore and bookmark this site! It contains valuable information to help you successfully navigate the waters of the SUSE Cloud Native Foundations course. 
+
+We'll be with you every step of the way! 
+
+
+
+----------------
+
+
 
 
 

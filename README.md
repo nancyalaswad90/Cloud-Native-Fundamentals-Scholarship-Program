@@ -4,7 +4,7 @@
 # SUSE Cloud Native Foundations Scholarship
 
 
->  **:medal: Keep working on reaching those Course Milestones :medal:**
+>  :medal:  **Keep working on reaching those Course Milestones :medal:**
 
 .
 

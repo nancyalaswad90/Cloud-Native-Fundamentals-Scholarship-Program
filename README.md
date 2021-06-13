@@ -4,7 +4,7 @@
 # SUSE Cloud Native Foundations Scholarship
 
 
->   **Keep working on reaching those Course Milestones **
+>   **Keep working on reaching those Course Milestones**
 
 
 ![mil.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1623581610/mil.png)

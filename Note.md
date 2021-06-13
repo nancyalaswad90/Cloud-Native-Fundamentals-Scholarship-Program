@@ -1,5 +1,5 @@
 
-
+.
 
 ## This is a quick tip on how to install and run Docker without any unusual error on Windows10 64bits:
 
@@ -12,4 +12,11 @@
 
 
 4. Reboot the system after updating, normally Docker should run just fine
-Hoping that will be helpful for you
+
+
+
+
+---------------------
+
+
+.

@@ -1,7 +1,9 @@
 .
 
 
-# Cloud Native Fundamentals Scholarship Program
+# SUSE Cloud Native Foundations Scholarship
+
+
 
 
 .
@@ -64,3 +66,7 @@ https://docs.google.com/document/d/1QKEszBztXIdzjt9M5DdGjFTa3ZA9fHNlIztmlSdRkh4/
 
  - [Free Course Udemy  Docker Tutorial - Docker Essentials](https://www.udemy.com/course/docker-essentials/)
 
+
+
+
+-

@@ -36,7 +36,7 @@
 
 2. Make researching and reading more about python and flask.
 
-3. Create new file in my github Repository `SUSE Cloud Native Foundations Scholarship` as **(daily_scrum.md)**
+3. Create new file in my github Repository `SUSE Cloud Native Foundation Scholarship` as **(daily scrum.md)**
 
 
 

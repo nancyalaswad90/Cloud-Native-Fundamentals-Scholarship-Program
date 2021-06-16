@@ -20,6 +20,23 @@
 ### Day 2 : 15/06/2021
 
 
-1.Yesterday I Finished the  Lesson ( 2 )
+
+1. Yesterday I Finished the  Lesson ( 2 )
 
 2 . Work of Today: Write some note to deepen my understanding
+
+.
+
+
+
+### Day 3 : 16/06/2021
+
+
+1. Yesterday I Finished the  Lesson ( 2 )
+
+2 . Work of Today: Write some note to deepen my understanding
+
+researching and reading more about python and flask.
+Nothing to block the progress
+
+

@@ -32,11 +32,11 @@
 ### Day 3 : 16/06/2021
 
 
-1. Yesterday I Finished the  Lesson ( 2 )
+1. Still Write some  note to deepen my understanding in  lesson (2 )
 
-2 . Work of Today: Write some note to deepen my understanding
+2. Make researching and reading more about python and flask.
 
-researching and reading more about python and flask.
-Nothing to block the progress
+3. Create file in as **(daily_scrum.md)**
+
 
 

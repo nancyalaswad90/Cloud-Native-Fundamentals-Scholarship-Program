@@ -52,7 +52,27 @@
 
 
 
+.
 
+
+
+
+### Day 4 : 17/06/2021
+
+
+1. Yesterday : I worked on some concept in  lesson (3 )
+
+
+2. Today : Update my file in my github Repository `SUSE Cloud Native Foundation Scholarship` as [**(daily scrum.md)**](https://github.com/nancyalaswad90/SUSE-Cloud-Native-Foundations-Scholarship/edit/main/daily_scrum.md)
+
+
+3.  Not understanding  : So far, I have nothing blocking my progress. 
+
+
+
+
+
+.
 
 
 

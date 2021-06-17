@@ -56,3 +56,15 @@ DevOps Prerequisites: https://www.youtube.com/watch?v=Wvf0mBNGjXY
 Docker: https://www.youtube.com/watch?v=fqMOX6JJhGo
 Kubernetes: https://www.youtube.com/watch?v=X48VuDVv0do
 
+
+
+## Sample 
+
+Day XXXXX - 
+
+1. Yesterday, I worked on Content Delivery under Cloud Fundamentals
+2. Today I'm working on Security under Cloud Fundamentals
+3. Not understanding how to create a VPC is blocking my progress
+
+
+

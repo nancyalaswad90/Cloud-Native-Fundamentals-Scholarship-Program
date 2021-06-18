@@ -104,14 +104,16 @@ Day XXXXX -
 .
 
 
-some of you reported to me that they are lacking some of the prerequisites of the course. Here are short tutorials to help you catch up quickly
+### some of you reported to me that they are lacking some of the prerequisites of the course. Here are short tutorials to help you catch up quickly
+
+
 Python: https://www.youtube.com/watch?v=rfscVS0vtbw
 Flask: https://www.youtube.com/watch?v=Z1RJmh_OqeA
 Flask (more detailed): https://www.youtube.com/watch?v=Qr4QMBUPxWo
 CLI: https://www.youtube.com/watch?v=yz7nYlnXLfE
 Git: https://www.youtube.com/watch?v=RGOj5yH7evk
 Other videos related to the scholarship
-DevOps Prerequisites: https://www.youtube.com/watch?v=Wvf0mBNGjXY
+- DevOps Prerequisites: https://www.youtube.com/watch?v=Wvf0mBNGjXY
 Docker: https://www.youtube.com/watch?v=fqMOX6JJhGo
 Kubernetes: https://www.youtube.com/watch?v=X48VuDVv0do
 

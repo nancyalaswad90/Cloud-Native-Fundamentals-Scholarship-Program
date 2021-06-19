@@ -90,6 +90,24 @@
 
 .
 
+
+
+### Day 5 : 19 /06/2021
+
+
+1. Yesterday : Finish  lesson (3 ) and worked with lesson (4 ) 
+
+
+2. Today : Update my file in my GitHub Repository `SUSE Cloud Native Foundation Scholarship` as [**(daily scrum.md)**](https://github.com/nancyalaswad90/SUSE-Cloud-Native-Foundations-Scholarship/edit/main/daily_scrum.md)
+
+
+3.  Not understanding  : So far, I have nothing blocking my progress. 
+
+
+
+.
+
+
 ############################### 19/5 Finish 4th lesson before July 19th.
 
 ## Sample 

@@ -11,11 +11,12 @@
 
 ----------------
 
-We're excited to start this journey with you. Over the next 8 weeks, you'll be working hard to finish the Foundations Course and be in the running for a full Nanodegree Scholarship!
 
-Please explore and bookmark this site! It contains valuable information to help you successfully navigate the waters of the SUSE Cloud Native Foundations course. 
+Over the next 8 weeks, We work hard to finish the Foundations Course and be in the running for a full Nanodegree Scholarship!
 
-We'll be with you every step of the way! 
+We explore and bookmark this site! which contains valuable information to help us successfully navigate the waters of the SUSE Cloud Native Foundations course. 
+
+>  **This repository show every step of the way, and every good resource we can explore.**
 
 
 

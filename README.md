@@ -105,6 +105,9 @@ https://docs.google.com/document/d/1QKEszBztXIdzjt9M5DdGjFTa3ZA9fHNlIztmlSdRkh4/
 
 - Python: https://www.youtube.com/watch?v=rfscVS0vtbw
 
+And as general Python knowledge, a great introduction to callables and decorators: https://www.pythonmorsels.com/topics/callables/
+
+
 - Flask: https://www.youtube.com/watch?v=Z1RJmh_OqeA
 
 - Flask (more detailed): https://www.youtube.com/watch?v=Qr4QMBUPxWo

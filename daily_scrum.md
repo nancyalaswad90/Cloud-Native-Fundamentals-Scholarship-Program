@@ -92,7 +92,7 @@
 
 
 
-### Day 5 : 19 /06/2021
+### Day 6 : 19 /06/2021
 
 
 1. Yesterday : Finish  lesson (3 ) and worked with lesson (4 ) 
@@ -109,7 +109,7 @@
 
 
 
-### Day 5 : 20 /06/2021
+### Day 7 : 20 /06/2021
 
 
 1. Yesterday : Finish lesson (4 ) and added my second milestone badge
@@ -127,7 +127,7 @@
 
 .
 
-### Day 6 : 21 /06/2021
+### Day 8 : 21 /06/2021
 
 
 1. Yesterday :  Writing some note to deepen my understanding in lesson (4 )
@@ -144,7 +144,7 @@
 
 
 
-### Day 7 : 22 /06/2021
+### Day 9 : 22 /06/2021
 
 
 
@@ -163,7 +163,7 @@
 
 
 
-### Day 8 : 23 /06/2021
+### Day 10: 23 /06/2021
 
 
 

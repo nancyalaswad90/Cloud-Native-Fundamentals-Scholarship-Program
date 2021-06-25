@@ -182,11 +182,28 @@
 
 
 
-### Day 11: 24 /06/2021
+### Day 11 : 24 /06/2021
 
 
 
 1. Yesterday : being worked on some concept in lesson (5 )
+
+
+2. Today : Update my file in my GitHub Repository `SUSE Cloud Native Foundation Scholarship` as [**(daily scrum.md)**](https://github.com/nancyalaswad90/SUSE-Cloud-Native-Foundations-Scholarship/edit/main/daily_scrum.md)
+
+
+3.  Not understanding  : So far, I have nothing blocking my progress. 
+
+
+
+.
+
+
+### Day 12 : 25/06/2021
+
+
+
+1. Yesterday :  working on lesson (5 )
 
 
 2. Today : Update my file in my GitHub Repository `SUSE Cloud Native Foundation Scholarship` as [**(daily scrum.md)**](https://github.com/nancyalaswad90/SUSE-Cloud-Native-Foundations-Scholarship/edit/main/daily_scrum.md)

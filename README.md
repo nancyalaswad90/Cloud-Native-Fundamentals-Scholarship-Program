@@ -127,3 +127,31 @@ And as general Python knowledge, a great introduction to callables and decorator
 
 
 .
+
+
+### Here are some of the well known podcasts. If you find more and interesting do share with me.
+
+
+- The Stack Overflow Podcast
+
+- The Real Python Podcast
+
+- JavaScript Jabber
+
+- Darknet Diaries
+
+- Towards Data Science
+
+- Ted Talks Daily
+
+- We Hack Purple Podcast
+
+- Security Now
+
+- The Privacy, Security, & OSINT Show
+
+- Getting Into InfoSec
+
+
+
+.

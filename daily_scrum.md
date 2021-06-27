@@ -251,6 +251,23 @@
 
 .
 
+### Day 15: 28/06/2021
+
+
+
+1. Yesterday :  working on lesson (5 )
+
+
+
+2. Today : Update my file in my GitHub Repository `SUSE Cloud Native Foundation Scholarship` as [**(daily scrum.md)**](https://github.com/nancyalaswad90/SUSE-Cloud-Native-Foundations-Scholarship/edit/main/daily_scrum.md)
+
+
+3.  Not understanding  : So far, I have nothing blocking my progress. 
+
+
+
+.
+
 
 
 

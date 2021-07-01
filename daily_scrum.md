@@ -304,6 +304,23 @@
 
 .
 
+### Day 18 :  01 /07 /2021
+
+
+
+1. Yesterday :Writing some note to deepen my understanding in lesson (5 ) , Reading out resource to deep my knowledge.
+
+
+
+2. Today : Update my file in my GitHub Repository `SUSE Cloud Native Foundation Scholarship` as [**(daily scrum.md)**](https://github.com/nancyalaswad90/SUSE-Cloud-Native-Foundations-Scholarship/edit/main/daily_scrum.md)
+
+
+3.  Not understanding  : So far, I have nothing blocking my progress. 
+
+
+
+.
+
 
 
 

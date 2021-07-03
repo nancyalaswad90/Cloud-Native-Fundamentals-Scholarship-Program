@@ -177,3 +177,8 @@ https://www.udacity.com/course/front-end-frameworks--ud894
 
 - Familiarity with Docker and exposure to a CI/CD pipeline ( not essential for success in this program but are helpful skills to have!)
 https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615
+
+
+
+
+##  Reading the [INTRODUCTION TO CLOUND NATIVE FUNDAMENTALS](https://github.com/nancyalaswad90/SUSE-Cloud-Native-Foundations-Scholarship/blob/main/INTRODUCTION%20TO%20CLOUND%20NATIVE%20FUNDAMENTALS.pdf) 

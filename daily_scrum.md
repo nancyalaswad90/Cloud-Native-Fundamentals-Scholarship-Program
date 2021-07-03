@@ -344,7 +344,7 @@
 
 
 
-1. Yesterday :Writing some note to deepen my understanding in lesson (5 ) , Reading the [INTRODUCTION TO CLOUND NATIVE FUNDAMENTALS]() resource to deep my knowledge.
+1. Yesterday :Writing some note to deepen my understanding in lesson (5 ) , Reading the [INTRODUCTION TO CLOUND NATIVE FUNDAMENTALS](https://github.com/nancyalaswad90/SUSE-Cloud-Native-Foundations-Scholarship/blob/main/INTRODUCTION%20TO%20CLOUND%20NATIVE%20FUNDAMENTALS.pdf) resource to deep my knowledge.
 
 
 

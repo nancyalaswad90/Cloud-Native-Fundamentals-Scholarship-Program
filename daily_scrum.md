@@ -357,7 +357,23 @@
 
 .
 
-### Day 21 :  03/07 /2021
+### Day 21 :  04/07 /2021
+
+
+
+1. Yesterday :Writing some note to deepen my understanding in lesson (5 ) , Reading the [INTRODUCTION TO CLOUND NATIVE FUNDAMENTALS](https://github.com/nancyalaswad90/SUSE-Cloud-Native-Foundations-Scholarship/blob/main/INTRODUCTION%20TO%20CLOUND%20NATIVE%20FUNDAMENTALS.pdf) resource to deep my knowledge.
+
+
+2. Today : Update my file in my GitHub Repository `SUSE Cloud Native Foundation Scholarship` as [**(daily scrum.md)**](https://github.com/nancyalaswad90/SUSE-Cloud-Native-Foundations-Scholarship/edit/main/daily_scrum.md)
+
+
+3.  Not understanding  : So far, I have nothing blocking my progress. 
+
+
+.
+
+
+### Day 22 :  05/07 /2021
 
 
 

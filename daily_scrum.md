@@ -393,3 +393,5 @@
 
 
 - [motivation image](https://www.google.com/search?q=motivation+image&rlz=1C1CHBF_enJO791JO791&sxsrf=ALeKk00_QuGtRJVHUXKRAZ5HRITiZKa_2A:1624373058775&tbm=isch&source=iu&ictx=1&fir=LpHie36QJZCW6M%252Cti2cxZ7o4aRUpM%252C_&vet=1&usg=AI4_-kTuso5BOdBRzCIr-y1F9-pHmk-GbA&sa=X&ved=2ahUKEwish5qZvavxAhXC3oUKHdfHBj8Q9QF6BAgPEAE&biw=1517&bih=694#imgrc=LpHie36QJZCW6M)
+
+.

@@ -429,7 +429,25 @@
 
 
 
+### Day 25 :  08/07 /2021
 
+
+
+1. Yesterday :Still reading  and take notes for the Git cheat sheet from GitLab resource to deep my knowledge.
+
+
+
+2. Today : get my course completion email :relaxed: and Update my file in my GitHub Repository `SUSE Cloud Native Foundation Scholarship` as daily scrum.md
+
+
+3.  Not understanding  : So far, I have nothing blocking my progress.
+
+
+
+
+
+
+.
 
 
 - [motivation image](https://www.google.com/search?q=motivation+image&rlz=1C1CHBF_enJO791JO791&sxsrf=ALeKk00_QuGtRJVHUXKRAZ5HRITiZKa_2A:1624373058775&tbm=isch&source=iu&ictx=1&fir=LpHie36QJZCW6M%252Cti2cxZ7o4aRUpM%252C_&vet=1&usg=AI4_-kTuso5BOdBRzCIr-y1F9-pHmk-GbA&sa=X&ved=2ahUKEwish5qZvavxAhXC3oUKHdfHBj8Q9QF6BAgPEAE&biw=1517&bih=694#imgrc=LpHie36QJZCW6M)

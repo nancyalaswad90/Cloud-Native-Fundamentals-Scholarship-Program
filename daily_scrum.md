@@ -472,11 +472,12 @@
 
 
 
-### Day 27 :  10/07 /2021
+### Day 27 :  10/07 /2021 , Sprint 2
 
 
 
-1. Yesterday :Still reading  and take notes for the Git cheat sheet from GitLab resource to deep my knowledge.
+
+1. Yesterday : Now I will  restart the course since the beginning to check any required I may miss
 
 
 

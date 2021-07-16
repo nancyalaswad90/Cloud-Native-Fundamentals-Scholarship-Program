@@ -592,7 +592,7 @@
 
 
 
-2. Today : get my course completion email :relaxed: and Update my file in my GitHub Repository `SUSE Cloud Native Foundation Scholarship` as daily scrum.md
+2. Today : Update my file in my GitHub Repository `SUSE Cloud Native Foundation Scholarship` as daily scrum.md
 
 
 3.  Not understanding  : So far, I have nothing blocking my progress.

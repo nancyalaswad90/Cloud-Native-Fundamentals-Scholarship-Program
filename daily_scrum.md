@@ -711,13 +711,8 @@
 
 
 
-1. Yesterday : 
-
-
--  Read the ideas in #daily_scrum + #st_cloud_egyptians + #Project channel , and Continue review  the course  material to check any required I may miss
+1. Yesterday :  Read the ideas in #daily_scrum + #st_cloud_egyptians + #Project channel , and Continue review  the course  material to check any required I may miss
   
-> ![con000.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1627035235/con000.png)
-
 
 2. Today : Update my file in my GitHub Repository `SUSE Cloud Native Foundation Scholarship` as daily scrum.md
 

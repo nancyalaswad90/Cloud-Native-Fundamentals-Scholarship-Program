@@ -7,11 +7,12 @@
 
 
 
-> ## In this challenge our team got the `one of the final Study Team WINNERS` :confetti_ball: 
+> ## In this challenge our team got the `one of the final Study Team WINNERS`:confetti_ball: 
 .
 
 
-> ![file](https://user-images.githubusercontent.com/36210723/127753602-63d5b850-80ee-4e22-ad8a-53735e4bd654.png)
+> 
+![file](https://user-images.githubusercontent.com/36210723/127753643-fe9e634b-3cf3-4767-bca1-c10162569c94.png)
 
 
 .

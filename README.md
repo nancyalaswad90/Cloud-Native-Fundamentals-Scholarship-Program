@@ -7,7 +7,7 @@
 
 
 
-## In this challenge we got (one of the final Study Team WINNERS :confetti_ball:)
+> ## In this challenge our team got the `one of the final Study Team WINNERS` :confetti_ball: 
 .
 
 

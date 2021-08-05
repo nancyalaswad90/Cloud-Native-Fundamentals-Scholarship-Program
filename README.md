@@ -5,6 +5,9 @@
 
 
 
+![SUSE_Scholarship_Finalist_Badge 0](https://user-images.githubusercontent.com/36210723/128417495-21325733-6c46-486d-8b61-8c62aa73a490.png)
+
+
 
 
 > ## In this challenge our team got the `one of the final Study Team WINNERS`:confetti_ball: 

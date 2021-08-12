@@ -5,9 +5,22 @@
 
 
 
+
+
+
 ![SUSE_Scholarship_Finalist_Badge 0](https://user-images.githubusercontent.com/36210723/128417495-21325733-6c46-486d-8b61-8c62aa73a490.png)
 
 
+
+.
+
+
+> ## Thank God I Won this scholarship
+
+![sus.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1628803186/sus.png)
+
+
+.
 
 
 > ## In this challenge our team got the `one of the final Study Team WINNERS`:confetti_ball: 

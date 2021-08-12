@@ -17,7 +17,10 @@
 
 > ## Thank God I Won this scholarship
 
-![sus.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1628803186/sus.png)
+
+.
+
+ > ![sus.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1628803291/sus.png)
 
 
 .
